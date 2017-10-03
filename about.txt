@@ -1,0 +1,9 @@
+
+Assignment 1
+
+Team members:
+Rupinder Kaur : 100294042
+Mandeep Kaur : 100293558
+Reena Sharma :100285946
+
+Note - To add new post, make a .txt file under posts directory by name post_nameOfPost.txt(example post_five.txt)
